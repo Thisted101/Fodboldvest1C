@@ -1,5 +1,4 @@
 from machine import Pin, I2C
-from machine import PWM
 import umqtt_robust2 as mqtt
 import ssd1306
 from time import sleep
