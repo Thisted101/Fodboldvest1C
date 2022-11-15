@@ -9,7 +9,6 @@ import mpu6050
 import gps_funktion
 from imu import MPU6050  # https://github.com/micropython-IMU/micropython-mpu9x50
 import time
-from machine import Pin
 
 
 
