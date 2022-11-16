@@ -51,7 +51,7 @@ while True:
         sleep(3)
 
 #			IMU OG NEOPIXEL KODE			  
-        print("Step 4: IMU AND NEOPIXEL INITIATE")
+        print("Step 3: IMU AND NEOPIXEL INITIATE")
         
 # imu kode og neopixel
 
